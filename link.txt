@@ -1,0 +1,1 @@
+https://freecurrencyapi.net/api/v2/latest?apikey=c6029f50-68cb-11ec-9ff0-3708e9297674
